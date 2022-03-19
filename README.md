@@ -1,5 +1,4 @@
-# awesome-calibre
-# Awesome Wayland
+# Awesome Calibre
 
 A curated list of [Calibre](https://github.com/kovidgoyal/calibre) and [Kindle](https://wiki.604kph.xyz/wiki/Amazon_Kindle?lang=en) code and resources.
 
