@@ -27,7 +27,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 * [Bookrix Free Books](https://www.bookrix.com/books.html)
 * [DigiLibrary](https://digilibraries.com/)
-* [Goodreads Free Books](https://www.goodreads.com/list/tag/free)
+* [Freebooksy](https://www.freebooksy.com/featured-books/)
+* [Goodreads Free Books Shelves](https://www.goodreads.com/shelf/show/free-online)
+* [International Children's Library](http://en.childrenslibrary.org/library/books.html)
 * [Kindle Free Books](https://www.amazon.com/b?ie=UTF8&node=20102661011)
 * [ManyBooks](https://manybooks.net/)
 * [Open Library](https://openlibrary.org/subjects/accessible_book#ebooks=true)
