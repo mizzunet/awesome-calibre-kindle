@@ -14,6 +14,14 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Plugins
 * Book Stores
     * [CalibreLibgenStore](https://github.com/fallaciousreasoning/CalibreLibgenStore)
+* Metadata
+    * [doujinshi](https://github.com/yingziwu/doujinshi_metadata_plugins)
+* Uncategrorised
+    * [ReadItLater](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin)
+    * [X-Ray Creator](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin)
+* Utilities
+    * [EpubMerge](https://github.com/JimmXinu/EpubMerge)
+    * [EpubSplit](https://github.com/JimmXinu/EpubSplit)
 
 ## Free eBooks Sites
 
