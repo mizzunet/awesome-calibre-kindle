@@ -20,8 +20,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [EpubSplit](https://github.com/JimmXinu/EpubSplit)
 * [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
 * [ReadItLater](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin)
-* [X-Ray Creator](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin)
 * [WordDumb](https://github.com/xxyzz/WordDumb) - A calibre plugin that generates Kindle Word Wise and X-Ray files. Supports KFX, AZW3, AZW, MOBI and EPUB format.
+* [X-Ray Creator](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin)
 
 ## Sites
 * [Goodreads](https://goodreads.com)
