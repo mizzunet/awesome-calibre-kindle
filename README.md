@@ -31,17 +31,17 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Browser Extensions
 * [ePub Press](https://epub.press/) - EpubPress is a browser extension for Chrome & Firefox for turning your favorite web content into ebooks.
 
-## Anki and Kindle
-* [ ankimaker](https://github.com/carllacan/ankimaker) - Automatically generates Anki decks from many sources
-* [Kindle2Anki](https://github.com/NdYAG/Kindle2Anki) - Export Vocabulary Builder to Anki APKG
-* [kindle2anki](https://github.com/psamim/kindle2anki) - Add words from Kindle to Anki
-* [kindle_vocab_anki](https://github.com/wzyboy/kindle_vocab_anki) - Export Kindle Vocabulary Builder to Anki
-
 ## Server
 * [ BookStrap](https://github.com/aeroith/BookStrap) - A lightweight epub book server
 * [kindleServer](https://github.com/edgartaor/kindleServer) - Serve HTML files suitable for Kindle browser
 * [kinss](https://github.com/xizeyoupan/kinss) -  A Reabble-like RSS Reader & Client for Kindle Browser 
 * [reabble](https://github.com/oxyry/reabble) - A web based RSS Reader for PC, Phone & E-Ink Devices 
+
+## Anki and Kindle
+* [ ankimaker](https://github.com/carllacan/ankimaker) - Automatically generates Anki decks from many sources
+* [Kindle2Anki](https://github.com/NdYAG/Kindle2Anki) - Export Vocabulary Builder to Anki APKG
+* [kindle2anki](https://github.com/psamim/kindle2anki) - Add words from Kindle to Anki
+* [kindle_vocab_anki](https://github.com/wzyboy/kindle_vocab_anki) - Export Kindle Vocabulary Builder to Anki
 
 ## Clippings and Highlights
 * [ ClippingsToMarkdown](https://github.com/wangandi520/ClippingsToMarkdown) - Convert Kindle clippings to markdown
@@ -60,6 +60,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [html2mobi](https://github.com/moshfiqur/html2mobi) - A python script to convert webpages into .mobi format for reading on Kindle
 * [kindle-periodical](https://github.com/moszeed/kindle-periodical) -  create a periodical .mobi, with kindlegen 
 * [kindleBookMaker](https://github.com/barretlee/kindleBookMaker) - Kindle Book Maker with KindleGen, Make Book from RSS/single URL/directory and so on.
+* [manga2mobi](https://github.com/KevCui/manga2mobi) - Download manga/comic and convert it to mobi file for Kindle
+* [papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks.
 
 ## Kindle Browser
 * [kindle_infoscreen](https://github.com/hermannsblum/kindle_infoscreen) - Home-Assisstant Interface That Runs in the Kindle Browser.
@@ -69,8 +71,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [kindle-display](https://github.com/dennisreimann/kindle-display) - Kindle Status Display
 * [kindle-gphotos](https://github.com/mattzzw/kindle-gphotos) - Turns a Kindle Paperwhite into an electronic picture frame displaying images from a shared album on Google Photos.
 * [kindle-weatherstation](https://github.com/mattzzw/kindle-weatherstation) - Turn a Kindle Paperwhite into a server-less weatherstation with optimized battery runtime.
-* [ manga2mobi](https://github.com/KevCui/manga2mobi) - Download manga/comic and convert it to mobi file for Kindle
-* [papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks.
 
 ## Send to Kindle
 * [Gen2Kindle](https://github.com/shashanoid/Gen2Kindle) - Search, download, convert and send files directly to your kindle from Libgen in one place.
