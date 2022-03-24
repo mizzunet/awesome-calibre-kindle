@@ -6,10 +6,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Table of contents
 
-  - [Plugins](#plugins)
+  - [Calibre Plugins](#calibre-plugins)
   - [Community](#commmunity)
   - [Free eBooks Sites](#free-ebooks-sites)
-  - [Tweaks](#tweaks)
+  - [Scripts](#scripts)
   - [License](#license)
 
 ## Calibre Plugins
@@ -41,7 +41,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [The Online Books Page](http://digital.library.upenn.edu/books/)
 * [World Public Libraray](http://worldpubliclibrary.org/)
 
-## Tweaks
+## Scripts
 
 ## License
 
