@@ -96,6 +96,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [wallabag-kindle-consumer](https://github.com/janLo/wallabag-kindle-consumer) - Send all articles with a certain tag to your kindle.
 * [webkin](https://github.com/mr-karan/webkin) - CLI tool to send webpages to kindle. 
 
+## Tools
+* [KindleTool](https://github.com/NiLuJe/KindleTool) -  A tool for creating & extracting Kindle updates and more 
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
