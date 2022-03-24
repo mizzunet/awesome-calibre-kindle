@@ -25,8 +25,11 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
     * [EpubSplit](https://github.com/JimmXinu/EpubSplit)
 
 ## Community
-## Free eBooks Sites
+* [Goodreads](https://goodreads.com)
+* [The Story Graph](https://app.thestorygraph.com)
 
+## Free eBooks Sites
+* [Bloom Library](https://bloomlibrary.org/)
 * [Bookrix Free Books](https://www.bookrix.com/books.html)
 * [DigiLibrary](https://digilibraries.com/)
 * [Freebooksy](https://www.freebooksy.com/featured-books/)
@@ -40,6 +43,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Smashwords Free Books](https://www.smashwords.com/shelves/home/1/free/any)
 * [The Online Books Page](http://digital.library.upenn.edu/books/)
 * [World Public Libraray](http://worldpubliclibrary.org/)
+
 ## Tweaks
 
 ## License
