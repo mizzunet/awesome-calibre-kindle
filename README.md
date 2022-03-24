@@ -32,7 +32,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [ePub Press](https://epub.press/) - EpubPress is a browser extension for Chrome & Firefox for turning your favorite web content into ebooks.
 
 ## Server
-* [ BookStrap](https://github.com/aeroith/BookStrap) - A lightweight epub book server
+* [bookery](https://github.com/Patrick-Vogt/bookery) -  Manage all your ebooks and send them to your reader
+* [BookStrap](https://github.com/aeroith/BookStrap) - A lightweight epub book server
 * [kindleServer](https://github.com/edgartaor/kindleServer) - Serve HTML files suitable for Kindle browser
 * [kinss](https://github.com/xizeyoupan/kinss) -  A Reabble-like RSS Reader & Client for Kindle Browser 
 * [reabble](https://github.com/oxyry/reabble) - A web based RSS Reader for PC, Phone & E-Ink Devices 
@@ -104,7 +105,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [wiktionary-to-kindle](https://github.com/nyg/wiktionary-to-kindle) - Converts a set of Wiktionary entries to a .mobi dictionary usable by a Kindle.
 
 ## Others
-* [bookery](https://github.com/Patrick-Vogt/bookery) -  Manage all your ebooks and send them to your reader
 * [KindleTool](https://github.com/NiLuJe/KindleTool) -  A tool for creating & extracting Kindle updates and more 
 * [Lector](https://github.com/msuozzo/Lector) - An API for your Kindle data
 
