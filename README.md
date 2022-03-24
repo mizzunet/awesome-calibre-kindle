@@ -36,6 +36,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Goodreads Free Books Shelves](https://www.goodreads.com/shelf/show/free-online)
 * [International Children's Library](http://en.childrenslibrary.org/library/books.html)
 * [Kindle Free Books](https://www.amazon.com/b?ie=UTF8&node=20102661011)
+* [Library Genesis](https://libgen.is/)
 * [ManyBooks](https://manybooks.net/)
 * [Open Cultre](https://www.openculture.com/free_ebooks)
 * [Open Library](https://openlibrary.org/subjects/accessible_book#ebooks=true)
