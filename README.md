@@ -7,6 +7,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Table of contents
 
   - [Calibre Plugins](#calibre-plugins)
+  - [Things you can do on Kindle](#things-you-can-do-on-kindle)
   - [Useful Sites](#useful-sites)
   - [Free eBooks](#free-ebooks)
   - [Browser Extensions](#browser-extensions)
@@ -16,7 +17,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Generate eBooks](#generate-ebooks)
   - [Kindle Browser](#kindle-browser)
   - [Send to Kindle](#send-to-kindle)
-  - [Things you can do on Kindle](#things-you-can-do-on-kindle)
   - [Dictionary](#dictionary)
   - [Others](#others)
   - [License](#license)
@@ -31,6 +31,14 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [ReadItLater](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin) -  This is an updated & modified version of the official Calibre plugin for Pocket
 * [WordDumb](https://github.com/xxyzz/WordDumb) - A calibre plugin that generates Kindle Word Wise and X-Ray files. Supports KFX, AZW3, AZW, MOBI and EPUB format.
 * [X-Ray Creator](https://github.com/szarroug3/X-Ray_Calibre_Plugin) - X-Ray Creator plugin for Calibre
+
+## Things you can do on Kindle
+* Enable dark mode - Tap on Dark Mode button in the toolbar
+* Reset Reading Time - `;ResetReadingTime` in search bar
+* [Send to Kindle via Email](https://www.amazon.com/sendtokindle/email) - Attach and send your documents to Kindle by Email
+* Set passcode - `Settings > Device Passcode`
+* Take Screenshots - Hold your fingers on either the top left and bottom right corners or top right and bottom left corners. You’ll see the screen flash briefly.
+* Use cover art on lockscreen - `Settings > Device Options and Show Cover`
 
 ## Sites
 * [Goodreads](https://goodreads.com) - Find and read more books you'll love, and keep track of the books you want to read. Be part of the world's largest community
@@ -93,14 +101,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [tlrl](https://github.com/sodiumjoe/tlrl) - Too long; read later. Send web pages to your kindle from the command line.
 * [wallabag-kindle-consumer](https://github.com/janLo/wallabag-kindle-consumer) - Send all articles with a certain tag to your kindle.
 * [webkin](https://github.com/mr-karan/webkin) - CLI tool to send webpages to kindle. 
-
-## Things you can do on Kindle
-* Enable dark mode - Tap on Dark Mode button in the toolbar
-* Reset Reading Time - `;ResetReadingTime` in search bar
-* [Send to Kindle via Email](https://www.amazon.com/sendtokindle/email) - Attach and send your documents to Kindle by Email
-* Set passcode - `Settings > Device Passcode`
-* Take Screenshots - Hold your fingers on either the top left and bottom right corners or top right and bottom left corners. You’ll see the screen flash briefly.
-* Use cover art on lockscreen - `Settings > Device Options and Show Cover`
 
 ## Free eBooks 
 * [Bloom Library](https://bloomlibrary.org/)
