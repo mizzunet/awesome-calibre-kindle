@@ -6,15 +6,15 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Table of contents
 
-    - [Calibre Plugins](#calibre-plugins)
-    - [Things you can do on Kindle](#things-you-can-do-on-kindle)
-    - [Useful Sites](#useful-sites)
-    - [Free eBooks](#free-ebooks)
-    - [Browser Extensions](#browser-extensions)
-    - [Servers](#servers)
-    - [Dictionary](#dictionary)
-    - [Others](#others)
-    - [License](#license)
+- [Calibre Plugins](#calibre-plugins)
+- [Things you can do on Kindle](#things-you-can-do-on-kindle)
+- [Useful Sites](#useful-sites)
+- [Free eBooks](#free-ebooks)
+- [Browser Extensions](#browser-extensions)
+- [Servers](#servers)
+- [Dictionary](#dictionary)
+- [Others](#others)
+- [License](#license)
 
 ## Calibre Plugins
 * [ calibre-kindle-comics](https://github.com/pavelzw/calibre-kindle-comics) - A calibre plugin that converts your comics into a readable format for kindle.
