@@ -6,21 +6,21 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Table of contents
 
-  - [Calibre Plugins](#calibre-plugins)
-  - [Things you can do on Kindle](#things-you-can-do-on-kindle)
-  - [Useful Sites](#useful-sites)
-  - [Free eBooks](#free-ebooks)
-  - [Browser Extensions](#browser-extensions)
-  - [Servers](#servers)
-    * Scripts
-        * - [Anki and Kindle](#anki-and-kindle)
-        * - [Clippings and Highlights](#clippings-and-highlights)
-  - [Generate eBooks](#generate-ebooks)
-  - [Kindle Browser](#kindle-browser)
-  - [Send to Kindle](#send-to-kindle)
-  - [Dictionary](#dictionary)
-  - [Others](#others)
-  - [License](#license)
+    - [Calibre Plugins](#calibre-plugins)
+    - [Things you can do on Kindle](#things-you-can-do-on-kindle)
+    - [Useful Sites](#useful-sites)
+    - [Free eBooks](#free-ebooks)
+    - [Browser Extensions](#browser-extensions)
+    - [Servers](#servers)
+    - [Scripts](#scripts)
+     - [Anki and Kindle](#anki-and-kindle)
+     - [Clippings and Highlights](#clippings-and-highlights)
+     - [Generate eBooks](#generate-ebooks)
+     - [Kindle Browser](#kindle-browser)
+     - [Send to Kindle](#send-to-kindle)
+    - [Dictionary](#dictionary)
+    - [Others](#others)
+    - [License](#license)
 
 ## Calibre Plugins
 * [ calibre-kindle-comics](https://github.com/pavelzw/calibre-kindle-comics) - A calibre plugin that converts your comics into a readable format for kindle.
