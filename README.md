@@ -7,9 +7,18 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Table of contents
 
   - [Calibre Plugins](#calibre-plugins)
-  - [Community](#commmunity)
-  - [Free eBooks Sites](#free-ebooks-sites)
-  - [Scripts](#scripts)
+  - [Useful Sites](#useful-sites)
+  - [Free eBooks](#free-ebooks)
+  - [Browser Extensions](#browser-extensions)
+  - [Server](#server)
+  - [Anki and Kindle](#anki-and-kindle)
+  - [Clippings and Highlights](#clippings-and-highlights)
+  - [Generate eBooks](#generate-ebooks)
+  - [Kindle Browser](#kindle-browser)
+  - [Send to Kindle](#send-to-kindle)
+  - [Things you can do on Kindle](#things-you-can-do-on-kindle)
+  - [Dictionary](#dictionary)
+  - [Others](#others)
   - [License](#license)
 
 ## Calibre Plugins
