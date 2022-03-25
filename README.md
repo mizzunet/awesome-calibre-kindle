@@ -12,8 +12,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Free eBooks](#free-ebooks)
   - [Browser Extensions](#browser-extensions)
   - [Servers](#servers)
-  - [Anki and Kindle](#anki-and-kindle)
-  - [Clippings and Highlights](#clippings-and-highlights)
+    * Scripts
+        * - [Anki and Kindle](#anki-and-kindle)
+        * - [Clippings and Highlights](#clippings-and-highlights)
   - [Generate eBooks](#generate-ebooks)
   - [Kindle Browser](#kindle-browser)
   - [Send to Kindle](#send-to-kindle)
