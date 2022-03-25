@@ -122,6 +122,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [World Public Libraray](http://worldpubliclibrary.org/)
 
 ## Dictionary
+* [Official Dictionaries] - [Manage Your Contents and Devices](https://www.amazon.com/mn/dcw/myx.html) > “Contents” > “Show: Dictionaries&User Guides”
 * [jmdict-kindle](https://github.com/jmdict-kindle/jmdict-kindle) - Japanese - English dictionary for Kindle based on the JMdict / EDICT database
 * [English-Vietanmese](https://github.com/ntd172/kindle-dict) - English-Vietnamese Dictionary for Kindle
 * [wiktionary-to-kindle](https://github.com/nyg/wiktionary-to-kindle) - Converts a set of Wiktionary entries to a .mobi dictionary usable by a Kindle.
