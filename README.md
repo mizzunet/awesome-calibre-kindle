@@ -25,11 +25,14 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Sites
 * [Goodreads](https://goodreads.com)
+* [Instapaper](https://www.instapaper.com/) - Instapaper sends artices added to it to Kindle
+* [k2pdfopt](http://www.willus.com/k2pdfopt/) - Reformat existing PDFs for smaller e-ink screens
 * [Send to Kobo/Kindle](https://send.djazz.se/) -  A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser 
 * [The Story Graph](https://app.thestorygraph.com)
 
 ## Browser Extensions
 * [ePub Press](https://epub.press/) - EpubPress is a browser extension for Chrome & Firefox for turning your favorite web content into ebooks.
+* [Send to Kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea) - Send articles to Kindle
 
 ## Server
 * [bookery](https://github.com/Patrick-Vogt/bookery) -  Manage all your ebooks and send them to your reader
@@ -81,6 +84,14 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [tlrl](https://github.com/sodiumjoe/tlrl) - Too long; read later. Send web pages to your kindle from the command line.
 * [wallabag-kindle-consumer](https://github.com/janLo/wallabag-kindle-consumer) - Send all articles with a certain tag to your kindle.
 * [webkin](https://github.com/mr-karan/webkin) - CLI tool to send webpages to kindle. 
+
+## Things you can do on Kindle
+* Enable dark mode - Tap on Dark Mode button in the toolbar
+* Reset Reading Time - `;ResetReadingTime` in search bar
+* [Send to Kindle via Email](https://www.amazon.com/sendtokindle/email) - Attach and send your documents to Kindle by Email
+* Set passcode - `Settings > Device Passcode`
+* Take Screenshots - 
+* Use cover art on lockscreen - `Settings > Device Options and Show Cover`
 
 ## Free eBooks 
 * [Bloom Library](https://bloomlibrary.org/)
