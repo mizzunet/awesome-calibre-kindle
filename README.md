@@ -87,6 +87,15 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [manga2mobi](https://github.com/KevCui/manga2mobi) - Download manga/comic and convert it to mobi file for Kindle
 * [papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks.
 
+### Send to Kindle
+* [Gen2Kindle](https://github.com/shashanoid/Gen2Kindle) - Search, download, convert and send files directly to your kindle from Libgen in one place.
+* [kindlepush](https://github.com/zhengchun/kindlepush) - Subscribe RSS/Atom feeds and push mobi to your Kindle.
+* [PocketToKindle](https://github.com/sejka/PocketToKindle) - Sends your Pocket articles to kindle via email
+* [reddit2kindle](https://github.com/JamieMagee/reddit2kindle) - Send reddit directly to your kindle
+* [tlrl](https://github.com/sodiumjoe/tlrl) - Too long; read later. Send web pages to your kindle from the command line.
+* [wallabag-kindle-consumer](https://github.com/janLo/wallabag-kindle-consumer) - Send all articles with a certain tag to your kindle.
+* [webkin](https://github.com/mr-karan/webkin) - CLI tool to send webpages to kindle. 
+
 ## Kindle Browser
 * [kindle_infoscreen](https://github.com/hermannsblum/kindle_infoscreen) - Home-Assisstant Interface That Runs in the Kindle Browser.
 * [kindle-weather-stand-alone ](https://github.com/x-magic/kindle-weather-stand-alone) - Kindle Weather Stand Project - standalone version (no server-end required)
@@ -95,15 +104,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [kindle-display](https://github.com/dennisreimann/kindle-display) - Kindle Status Display
 * [kindle-gphotos](https://github.com/mattzzw/kindle-gphotos) - Turns a Kindle Paperwhite into an electronic picture frame displaying images from a shared album on Google Photos.
 * [kindle-weatherstation](https://github.com/mattzzw/kindle-weatherstation) - Turn a Kindle Paperwhite into a server-less weatherstation with optimized battery runtime.
-
-## Send to Kindle
-* [Gen2Kindle](https://github.com/shashanoid/Gen2Kindle) - Search, download, convert and send files directly to your kindle from Libgen in one place.
-* [kindlepush](https://github.com/zhengchun/kindlepush) - Subscribe RSS/Atom feeds and push mobi to your Kindle.
-* [PocketToKindle](https://github.com/sejka/PocketToKindle) - Sends your Pocket articles to kindle via email
-* [reddit2kindle](https://github.com/JamieMagee/reddit2kindle) - Send reddit directly to your kindle
-* [tlrl](https://github.com/sodiumjoe/tlrl) - Too long; read later. Send web pages to your kindle from the command line.
-* [wallabag-kindle-consumer](https://github.com/janLo/wallabag-kindle-consumer) - Send all articles with a certain tag to your kindle.
-* [webkin](https://github.com/mr-karan/webkin) - CLI tool to send webpages to kindle. 
 
 ## Free eBooks 
 * [Bloom Library](https://bloomlibrary.org/)
