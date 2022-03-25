@@ -14,21 +14,21 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Calibre Plugins
 * [ calibre-kindle-comics](https://github.com/pavelzw/calibre-kindle-comics) - A calibre plugin that converts your comics into a readable format for kindle.
-* [CalibreLibgenStore](https://github.com/fallaciousreasoning/CalibreLibgenStore)
-* [doujinshi](https://github.com/yingziwu/doujinshi_metadata_plugins)
-* [EpubMerge](https://github.com/JimmXinu/EpubMerge)
-* [EpubSplit](https://github.com/JimmXinu/EpubSplit)
+* [CalibreLibgenStore](https://github.com/fallaciousreasoning/CalibreLibgenStore) -  A Libgen Fiction store plugin for Calibre 
+* [doujinshi](https://github.com/yingziwu/doujinshi_metadata_plugins) -  the calibre metadata plugins for doujinshi 
+* [EpubMerge](https://github.com/JimmXinu/EpubMerge) - EpubMerge Calibre Plugin 
+* [EpubSplit](https://github.com/JimmXinu/EpubSplit) -  EpubSplit Calibre Plugin 
 * [Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
-* [ReadItLater](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin)
+* [ReadItLater](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin) -  This is an updated & modified version of the official Calibre plugin for Pocket
 * [WordDumb](https://github.com/xxyzz/WordDumb) - A calibre plugin that generates Kindle Word Wise and X-Ray files. Supports KFX, AZW3, AZW, MOBI and EPUB format.
-* [X-Ray Creator](https://github.com/onlyhavecans/ReadItLater-Calibre-Plugin)
+* [X-Ray Creator](https://github.com/szarroug3/X-Ray_Calibre_Plugin) - X-Ray Creator plugin for Calibre
 
 ## Sites
-* [Goodreads](https://goodreads.com)
+* [Goodreads](https://goodreads.com) - Find and read more books you'll love, and keep track of the books you want to read. Be part of the world's largest community
 * [Instapaper](https://www.instapaper.com/) - Instapaper sends artices added to it to Kindle
 * [k2pdfopt](http://www.willus.com/k2pdfopt/) - Reformat existing PDFs for smaller e-ink screens
 * [Send to Kobo/Kindle](https://send.djazz.se/) -  A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser 
-* [The Story Graph](https://app.thestorygraph.com)
+* [The Story Graph](https://app.thestorygraph.com) -  A fully-featured Amazon-free alternative to Goodreads . Clean UI, better recommendations, discover books by mood
 
 ## Browser Extensions
 * [ePub Press](https://epub.press/) - EpubPress is a browser extension for Chrome & Firefox for turning your favorite web content into ebooks.
