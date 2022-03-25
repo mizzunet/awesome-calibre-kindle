@@ -126,6 +126,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [jmdict-kindle](https://github.com/jmdict-kindle/jmdict-kindle) - Japanese - English dictionary for Kindle based on the JMdict / EDICT database
 * [English-Vietanmese](https://github.com/ntd172/kindle-dict) - English-Vietnamese Dictionary for Kindle
 * [wiktionary-to-kindle](https://github.com/nyg/wiktionary-to-kindle) - Converts a set of Wiktionary entries to a .mobi dictionary usable by a Kindle.
+* [WordNet3](http://eb.lv/) - Dictionaries for several languages
 
 ## Others
 * [KindleTool](https://github.com/NiLuJe/KindleTool) -  A tool for creating & extracting Kindle updates and more 
