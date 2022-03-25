@@ -60,13 +60,14 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [kinss](https://github.com/xizeyoupan/kinss) -  A Reabble-like RSS Reader & Client for Kindle Browser 
 * [reabble](https://github.com/oxyry/reabble) - A web based RSS Reader for PC, Phone & E-Ink Devices 
 
-## Anki and Kindle
+## Scripts
+### Anki and Kindle
 * [ ankimaker](https://github.com/carllacan/ankimaker) - Automatically generates Anki decks from many sources
 * [Kindle2Anki](https://github.com/NdYAG/Kindle2Anki) - Export Vocabulary Builder to Anki APKG
 * [kindle2anki](https://github.com/psamim/kindle2anki) - Add words from Kindle to Anki
 * [kindle_vocab_anki](https://github.com/wzyboy/kindle_vocab_anki) - Export Kindle Vocabulary Builder to Anki
 
-## Clippings and Highlights
+### Clippings and Highlights
 * [ ClippingsToMarkdown](https://github.com/wangandi520/ClippingsToMarkdown) - Convert Kindle clippings to markdown
 * [fyodor](https://github.com/rc2dev/fyodor) - Convert your Amazon Kindle highlights and notes into markdown (or any format).
 * [gonotes](https://github.com/turbaszek/gonotes) - Command line tool to access your kindle clippings
@@ -77,7 +78,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Klib](https://github.com/toolinbox/Klib) - Klib, a new way to manage Kindle highlights and notes on macOS. Export Kindle highlights to Evernote.
 * [my-clippings-to-json](https://github.com/maxhallinan/my-clippings-to-json) - Format Kindle clippings as JSON.
 
-## Generate eBooks
+### Generate eBooks
 * [ComicBookMaker](https://github.com/SylvainDe/ComicBookMaker) - Script to fetch webcomics and use them to create ebooks.
 * [GenBooks](https://github.com/carey036/GenBooks) - Gen epub and mobi Books from RSS and send to kindle or boox with github action directly
 * [html2mobi](https://github.com/moshfiqur/html2mobi) - A python script to convert webpages into .mobi format for reading on Kindle
