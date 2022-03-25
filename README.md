@@ -10,7 +10,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Useful Sites](#useful-sites)
   - [Free eBooks](#free-ebooks)
   - [Browser Extensions](#browser-extensions)
-  - [Server](#server)
+  - [Servers](#servers)
   - [Anki and Kindle](#anki-and-kindle)
   - [Clippings and Highlights](#clippings-and-highlights)
   - [Generate eBooks](#generate-ebooks)
@@ -43,7 +43,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [ePub Press](https://epub.press/) - EpubPress is a browser extension for Chrome & Firefox for turning your favorite web content into ebooks.
 * [Send to Kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea) - Send articles to Kindle
 
-## Server
+## Servers
 * [bookery](https://github.com/Patrick-Vogt/bookery) -  Manage all your ebooks and send them to your reader
 * [BookStrap](https://github.com/aeroith/BookStrap) - A lightweight epub book server
 * [kindleServer](https://github.com/edgartaor/kindleServer) - Serve HTML files suitable for Kindle browser
