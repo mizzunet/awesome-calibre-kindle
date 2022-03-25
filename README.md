@@ -12,7 +12,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [Free eBooks](#free-ebooks)
 - [Browser Extensions](#browser-extensions)
 - [Servers](#servers)
-- [Scripts](#scripts)
+- Scripts
     - [Anki and Kindle](#anki-and-kindle)
     - [Clippings and Highlights](#clippings-and-highlights)
     - [Generate eBooks](#generate-ebooks)
