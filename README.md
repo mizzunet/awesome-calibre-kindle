@@ -41,7 +41,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * Use cover art on lockscreen - `Settings > Device Options and Show Cover`
 
 ## Sites
-* [Goodreads](https://goodreads.com) - Find and read more books you'll love, and keep track of the books you want to read. Be part of the world's largest community
+    * [Goodreads](https://goodreads.com) - Find and read more books you'll love, and keep track of the books you want to read. Be part of the world's largest community
 * [Instapaper](https://www.instapaper.com/) - Instapaper sends articles added to it to Kindle
 * [k2pdfopt](http://www.willus.com/k2pdfopt/) - Reformat existing PDFs for smaller e-ink screens
 * [Send to Kobo/Kindle](https://send.djazz.se/) -  A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser 
