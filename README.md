@@ -130,6 +130,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [WordNet3](http://eb.lv/) - Dictionaries for several languages
 
 ## Others
+* [kindle-side-card](https://github.com/perduewu-ops/kindle-side-card) - Turn a jailbroken Kindle into a local e-ink side display with host-rendered PNG frames, KUAL, and `eips`.
 * [KindleTool](https://github.com/NiLuJe/KindleTool) -  A tool for creating & extracting Kindle updates and more 
 * [Lector](https://github.com/msuozzo/Lector) - An API for your Kindle data
 
