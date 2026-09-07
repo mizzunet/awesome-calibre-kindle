@@ -47,6 +47,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
     * [The Story Graph](https://thestorygraph.com) -  A fully-featured Amazon-free alternative to Goodreads . Clean UI, better recommendations, discover books by mood
 * [Instapaper](https://www.instapaper.com/) - Instapaper sends articles added to it to Kindle
 * [k2pdfopt](http://www.willus.com/k2pdfopt/) - Reformat existing PDFs for smaller e-ink screens
+* [RSS to Kindle](https://www.rsstokindle.com/) - Subscribe to RSS and Substack feeds and get the full articles as a daily EPUB on your Kindle
 * [Send to Kobo/Kindle](https://send.djazz.se/) -  A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser 
 
 ## Browser Extensions
