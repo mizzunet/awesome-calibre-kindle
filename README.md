@@ -47,7 +47,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
     * [The Story Graph](https://thestorygraph.com) -  A fully-featured Amazon-free alternative to Goodreads . Clean UI, better recommendations, discover books by mood
 * [Instapaper](https://www.instapaper.com/) - Instapaper sends articles added to it to Kindle
 * [k2pdfopt](http://www.willus.com/k2pdfopt/) - Reformat existing PDFs for smaller e-ink screens
-* [Send to Kobo/Kindle](https://send.djazz.se/) -  A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser 
+* [Send to Kobo/Kindle](https://send.djazz.se/) -  A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser
+* [BetterPDF Convert](https://betterpdfconvert.com/) - Free in-browser ebook converter (EPUB, AZW3, MOBI to PDF) preserving clickable Table of Contents bookmarks with Kindle and iPad page presets.
 
 ## Browser Extensions
 * [ePub Press](https://epub.press/) - EpubPress is a browser extension for Chrome & Firefox for turning your favorite web content into ebooks.
